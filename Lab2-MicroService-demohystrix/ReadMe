@@ -1,0 +1,16 @@
+   Crome:..
+    http://localhost:9091/rest/getAll
+
+       Output :  hello world
+   
+   http://localhost:9091/rest/getAll
+   
+   Post: request : 
+   http://localhost:9091/addemp
+   
+   
+   Hystrix Dashbord
+   
+   http://localhost:9091/hystrix
+   
+   http://localhost:9091/hystrix.stream
