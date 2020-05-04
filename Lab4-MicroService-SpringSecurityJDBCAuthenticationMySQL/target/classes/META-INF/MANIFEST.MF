@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Lab4-MicroService-SpringSecurityJDBCAuthenticati
+ onMySQL
+Implementation-Version: 0.0.1
+Built-By: admin
+Implementation-Vendor-Id: com.javasampleapproach.springsecurity
+Build-Jdk: 1.8.0_251
+Implementation-URL: http://projects.spring.io/spring-boot/Lab4-MicroSe
+ rvice-SpringSecurityJDBCAuthenticationMySQL/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
